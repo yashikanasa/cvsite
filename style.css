@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+}
+.topcontainer{
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+    padding-bottom: 0;
+}
+.mountain{
+    margin: 0;
+}
+h1{
+    margin: 0;
+    font-size: 560%;
+    margin-top: 50px;
+    color:  #66BFBF;
+    
+}
+p{
+    margin-bottom: 0;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    
+}
+.topcloud{
+    position: absolute;
+    top: 10%;
+    right: 20%;
+ 
+}
+.bottomcloud{
+    position: absolute;
+    bottom: 35%;
+    left: 20%;
+   
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+.propic{
+    height: 200px;
+    width: 200px;
+   
+}
+.skills{
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+}
+.skills1{
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+a{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+    margin: 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#EAF6F6;
+    width: 5%;
+    border-width: 5px;
+
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 25px 11px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container2{
+    background-color: #66BFBF;
+  }
+  .footer{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+  }
